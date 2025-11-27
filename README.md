@@ -1,4 +1,3 @@
-```markdown
 # 🎨 Mermaid Chart Studio
 
 A modern web application for creating Mermaid diagrams with real-time preview and export capabilities.
@@ -16,23 +15,6 @@ A modern web application for creating Mermaid diagrams with real-time preview an
 - 🔍 Zoom controls (50-200%)
 - 🖼️ Fullscreen preview mode
 
-## 🚀 Quick Start
-
-```
-
-
-# Install dependencies
-
-npm install
-
-# Run development server
-
-npm run dev
-
-# Open http://localhost:3000
-
-```
-
 ## 🛠️ Tech Stack
 
 - Next.js 14 + TypeScript
@@ -41,19 +23,6 @@ npm run dev
 - next-themes
 - html-to-image
 
-## 📦 Deployment
-
-Deploy instantly to Vercel:
-
-```
-
-npm install -g vercel
-vercel --prod
-
-```
-
-Or push to GitHub and import in [Vercel](https://vercel.com).
-
 ## 📝 Usage
 
 1. Choose a template or write Mermaid code
@@ -61,4 +30,30 @@ Or push to GitHub and import in [Vercel](https://vercel.com).
 3. Export as PNG/SVG or save locally
 4. Drag panel borders to resize
 5. Click fullscreen icon for expanded view
+
+# 🚀 Quick Start
+
+### Install dependencies
 ```
+npm install
+```
+
+### Run development server
+```
+npm run dev
+```
+
+### Run Localhost
+```
+http://localhost:3000
+```
+
+## 📦 Deployment
+
+Deploy instantly to Vercel:
+```
+npm install -g vercel
+vercel --prod
+```
+
+Or push to GitHub and import in [Vercel](https://vercel.com).
